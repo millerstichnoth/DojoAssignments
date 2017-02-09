@@ -1,0 +1,20 @@
+cd Desktop
+md test
+cd test
+touch aboutMe.txt
+touch styles.css
+touch index.html
+git init
+git add aboutMe.txt
+git add styles.css
+git add index.html
+git commit -m "first commit"
+vi aboutme.txt
+git add aboutMe.txt
+git commit -m "updated aboutMe"
+git  add aboutMe.txt
+git commit -m "added favorite movie to aboutMe"
+git log
+git revert 52157c6db9140058f5afd4be877379e939cf14d6
+git add aboutme.txt
+git commit -m "added favorite movie again"

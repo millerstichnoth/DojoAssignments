@@ -1,0 +1,56 @@
+C:\Users\The Bucket>cd Desktop
+C:\Users\The Bucket\Desktop>md DojoAssignments
+C:\Users\The Bucket\Desktop>cd DojoAssignments
+C:\Users\The Bucket\Desktop\DojoAssignments>md Web Fundamentals
+C:\Users\The Bucket\Desktop\DojoAssignments>md Python
+C:\Users\The Bucket\Desktop\DojoAssignments>md MEAN
+C:\Users\The Bucket\Desktop\DojoAssignments>md Ruby
+C:\Users\The Bucket\Desktop\DojoAssignments>md iOS
+C:\Users\The Bucket\Desktop\DojoAssignments>md netCore
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>md WebFundamentals
+C:\Users\The Bucket\Desktop\DojoAssignments>rd Web Fundamentals
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\webfundamentals\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\ruby\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\python\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\netCore\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\MEAN\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>copy NUL about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments>move .\about.txt .\iOS\about.txt
+        1 file(s) moved.
+C:\Users\The Bucket\Desktop\DojoAssignments>cd webfundamentals
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>cd Git
+The system cannot find the path specified.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>md Git
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>md HTML
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>md CSS
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>md Javascript
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>copy NUL .\Git\about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>copy NUL .\HTML\about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>copy NUL .\CSS\about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>copy NUL .\Javascript\about.txt
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals>cd HTML
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals\HTML>copy NUL indentation.html
+        1 file(s) copied.
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals\HTML>dir /b /s
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals\HTML\about.txt
+C:\Users\The Bucket\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
