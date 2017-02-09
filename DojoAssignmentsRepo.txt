@@ -1,3 +1,18 @@
 cd Desktop
 cd DojoAssignments
 git init
+git status
+git add MEAN
+git add Python
+git add DojoAssignmentsRepo.txt
+git add Ruby
+git add WebFundamentals
+git add iOS
+git add netCore
+git commit -m "basics for my remote repo"
+git remote add origin "https://github.com/millerstichnoth/dojoassignments.git"
+git push origin master
+git status
+git add ReadMe.md
+git commit -m "Added ReadMe"
+git push origin master
